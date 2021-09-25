@@ -9,7 +9,7 @@ name: UIUC Duck Preservation Society
 description: Save the ducks!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.pinclipart.com/picdir/big/367-3676938_rubber-ducky-sunglasses-coffee-mug-pixel-art-clipart.png
+avatar: "images/duck.png"
 
 #
 # Flags below are optional
