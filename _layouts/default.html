@@ -31,7 +31,13 @@
 
     <div id="main" role="main" class="container">
       {{ content }}
-      <script> console.log("Quack"); </script>
+      <script> 
+        var duck_pics = ["duck.png", "first-post.png"]
+          function choosePic() {
+            var randomNum = Math.floor(Math.random() * myPix.length);
+            document.getElementById("myPicture").src = myPix[randomNum];
+          }
+      </script>
     </div>
 
     <div class="wrapper-footer">
