@@ -35,9 +35,11 @@
       <script> 
         var duck_pics = ["images/duck.png", "images/first-post.png"]
           function choosePic() {
-            var randomNum = Math.floor(Math.random() * myPix.length);
-            document.getElementById("myPicture").src = myPix[randomNum];
+            var randomNum = Math.floor(Math.random() * duck_pics.length);
+            document.getElementById("myPicture").src = duck_pics[randomNum];
           }
+
+          choosePic();
       </script>
     </div>
 
