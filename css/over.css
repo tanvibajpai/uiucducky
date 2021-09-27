@@ -1,0 +1,61 @@
+#answer {
+  font-size: 5em;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0.25em;
+}
+
+#caption {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 0.5em;
+}
+
+#submit {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 2em;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0.2em;
+  right: 1em;
+  width: 100%;
+  text-align: right;
+  font-size: 0.6em;
+}
+
+a {
+  color: black;
+}
+
+@media screen and (min-width: 48em) {
+  #answer {
+    font-size: 16em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0;
+  }
+
+  #caption {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 0.5em;
+  }
+
+  #submit {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 2em;
+  }
+
+  #footer {
+    position: absolute;
+    bottom: 0.2em;
+    right: 1em;
+    width: 100%;
+    text-align: right;
+    font-size: 1em;
+  }
+}
