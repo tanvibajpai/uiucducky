@@ -12,6 +12,7 @@ var over_captions = {
     "Wait why did you have,, 100 ducks??",
     "grades are a scam",
     "get your ducks in a row",
-    "look at all those chickens"
+    "look at all those chickens",
+    "thanks Drshika, Justin, Rishi, Meghan, and Christian,, good luck w the 225 MP i think"
   ]
 }
