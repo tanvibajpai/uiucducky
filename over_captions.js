@@ -8,11 +8,10 @@ var over_captions = {
     "inDUCKtion is recursion is inDUCKtion is recursion is inDUCKtion is recursion",
     "my favorite language is turing machines",
     "maybe quack can be our quack",
-    "some ducks are bigger than others",
     "Wait why did you have,, 100 ducks??",
     "grades are a scam",
     "get your ducks in a row",
     "look at all those chickens",
-    "thanks Drshika, Justin, Rishi, Meghan, and Christian,, good luck w the 225 MP i think"
+    "thanks Drshika, Justin, Rishi, Meghan, Christian, and Charlotte,, good luck w the 225 MP i think"
   ]
 }
